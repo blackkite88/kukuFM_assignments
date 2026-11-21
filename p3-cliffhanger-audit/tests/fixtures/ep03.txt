@@ -1,0 +1,8 @@
+[00:00:00] [SCENE] PENTHOUSE CORRIDOR - NIGHT
+[00:00:03] [ACTION] The elevator dings and the metal doors slide open.
+[00:00:08] VIKRAM: (scarred face, wearing military fatigues) Hello, little brother.
+[00:00:15] ARJUN: (aiming the gun) Take one more step and I pull the trigger.
+[00:00:25] VIKRAM: (smiles softly) Go ahead. But if my heart stops, the detonator in this basement activates.
+[00:00:38] PRIYA: (runs between them) Vikram, stop! You promised you wouldn't harm him!
+[00:00:48] VIKRAM: I promised I wouldn't harm you, Priya. Not him.
+[00:00:55] [ACTION] Vikram raises a remote detonator with a glowing red countdown timer.

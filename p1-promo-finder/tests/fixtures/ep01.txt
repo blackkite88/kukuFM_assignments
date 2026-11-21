@@ -1,0 +1,13 @@
+[00:00:00] [SCENE] MANSION LIVING ROOM - NIGHT
+[00:00:02] [ACTION] Glass shatters across the marble floor.
+[00:00:04] ROHIT: (yelling) Sign the divorce papers right now!
+[00:00:08] ANANYA: (tears streaming) You betrayed my father for this company!
+[00:00:14] ROHIT: Your father is bankrupt, Ananya. You have nothing left.
+[00:00:20] [ACTION] Rohit slaps the legal contract onto the glass table.
+[00:00:24] ANANYA: I know what you did five years ago at the lake house.
+[00:00:30] ROHIT: (freezes) Who told you about that night?
+[00:00:36] ANANYA: The police already have the dashcam footage, Rohit.
+[00:00:42] [ACTION] Rohit steps forward aggressively, gripping her wrist.
+[00:00:46] ROHIT: You will destroy both of us!
+[00:00:52] ANANYA: Then let us burn together.
+[00:00:56] [ACTION] Thunder crashes outside as the front door handle begins turning.

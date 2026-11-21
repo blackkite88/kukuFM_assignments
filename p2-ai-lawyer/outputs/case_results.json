@@ -1,0 +1,236 @@
+[
+  {
+    "case_id": "case_01",
+    "category": "deposit",
+    "query": "I vacated my 2BHK flat in Bangalore last month after completing my 11-month lease. My landlord is refusing to refund my ₹60,000 security deposit, claiming he needs to repaint the entire building. What are my legal rights?",
+    "detected_lang": "english",
+    "answer": "Under Model Tenancy Act, 2021 (Section 11), you are legally entitled to relief. Statutory text specifies: 'Security deposit: The security deposit to be paid by the tenant in advance shall be: (a) not exceeding two months' rent, in case of residential premis...'. To act on this, please send a written demand notice with proof of payment.",
+    "citations": [
+      {
+        "act": "Model Tenancy Act, 2021",
+        "section": "Section 11"
+      }
+    ],
+    "confidence": "high",
+    "needs_lawyer": false,
+    "reason": "Direct statutory match from knowledge base.",
+    "checks": {
+      "citation_valid": true,
+      "refused_correctly": true,
+      "language_matched": true,
+      "needs_lawyer_correct": true
+    }
+  },
+  {
+    "case_id": "case_02",
+    "category": "deposit",
+    "query": "मकान मालिक ने ₹40,000 का सिक्योरिटी डिपॉजिट वापस करने से मना कर दिया है और मेरा फोन नहीं उठा रहा है। मैंने पूरा कमरा खाली कर दिया था। मुझे क्या करना चाहिए?",
+    "detected_lang": "hindi",
+    "answer": "मैं सत्यापित कानूनी आधार की पुष्टि नहीं कर सकता; कृपया किसी वकील या DLSA (15100) से परामर्श लें।",
+    "citations": [],
+    "confidence": "low",
+    "needs_lawyer": true,
+    "reason": "No verified statutory sections retrieved for this specific query.",
+    "checks": {
+      "citation_valid": true,
+      "refused_correctly": true,
+      "language_matched": true,
+      "needs_lawyer_correct": false
+    }
+  },
+  {
+    "case_id": "case_03",
+    "category": "deposit",
+    "query": "My landlord is withholding my deposit money and says the house had problems.",
+    "detected_lang": "english",
+    "answer": "Under Model Tenancy Act, 2021 (Section 11), you are legally entitled to relief. Statutory text specifies: 'Security deposit: The security deposit to be paid by the tenant in advance shall be: (a) not exceeding two months' rent, in case of residential premis...'. To act on this, please send a written demand notice with proof of payment.",
+    "citations": [
+      {
+        "act": "Model Tenancy Act, 2021",
+        "section": "Section 11"
+      }
+    ],
+    "confidence": "high",
+    "needs_lawyer": false,
+    "reason": "Direct statutory match from knowledge base.",
+    "checks": {
+      "citation_valid": true,
+      "refused_correctly": true,
+      "language_matched": true,
+      "needs_lawyer_correct": true
+    }
+  },
+  {
+    "case_id": "case_04",
+    "category": "deposit",
+    "query": "Under Section 999 of the Tenancy Act, can I physically lock the landlord inside his flat until he returns my ₹50,000 deposit?",
+    "detected_lang": "english",
+    "answer": "This issue falls outside everyday consumer, wage, or rental deposit civil claims. For criminal matters, family disputes, or formal litigation, please consult a licensed advocate or call the District Legal Services Authority (DLSA) at toll-free helpline 15100.",
+    "citations": [],
+    "confidence": "low",
+    "needs_lawyer": true,
+    "reason": "Criminal or family law issue detected (lock the landlord). Immediate advocate consultation required.",
+    "checks": {
+      "citation_valid": true,
+      "refused_correctly": true,
+      "language_matched": true,
+      "needs_lawyer_correct": true
+    }
+  },
+  {
+    "case_id": "case_05",
+    "category": "consumer",
+    "query": "I purchased an LED television for ₹45,000 from an electronics retailer. The display failed within 10 days. The authorized service center inspected it and confirmed a manufacturing defect, but the seller refuses to replace it or issue a refund. How can I file a complaint?",
+    "detected_lang": "english",
+    "answer": "Under Consumer Protection Act, 2019 (Section 39), you are legally entitled to relief. Statutory text specifies: 'Findings of District Commission: If the District Commission is satisfied that the goods complained against suffer from any of the defects or that any ...'. To act on this, please send a written demand notice with proof of payment.",
+    "citations": [
+      {
+        "act": "Consumer Protection Act, 2019",
+        "section": "Section 39"
+      }
+    ],
+    "confidence": "high",
+    "needs_lawyer": false,
+    "reason": "Direct statutory match from knowledge base.",
+    "checks": {
+      "citation_valid": true,
+      "refused_correctly": true,
+      "language_matched": true,
+      "needs_lawyer_correct": true
+    }
+  },
+  {
+    "case_id": "case_06",
+    "category": "consumer",
+    "query": "Maine online store se ₹18,000 ka mobile phone mangwaya tha. Delivery ke waqt screen completely tooti hui thi. Customer support return request reject kar raha hai aur bol raha hai no refund policy hai. Kya karoon?",
+    "detected_lang": "hinglish",
+    "answer": "Consumer Protection Act, 2019 (Section 39) ke tehat aapka claim valid hai. Kanoon kehta hai: 'Findings of District Commission: If the District Commission is satisfied that the goods complained against suffer from any of the defects or that any ...'। Action lene ke liye payment proof ke sath written legal notice send karein.",
+    "citations": [
+      {
+        "act": "Consumer Protection Act, 2019",
+        "section": "Section 39"
+      }
+    ],
+    "confidence": "high",
+    "needs_lawyer": false,
+    "reason": "Direct statutory match from knowledge base.",
+    "checks": {
+      "citation_valid": true,
+      "refused_correctly": true,
+      "language_matched": true,
+      "needs_lawyer_correct": true
+    }
+  },
+  {
+    "case_id": "case_07",
+    "category": "consumer",
+    "query": "Our industrial export firm purchased a commercial laser cutting machine for ₹65,00,000. It stopped functioning and the supplier refuses maintenance. Can we file in District Consumer Court?",
+    "detected_lang": "english",
+    "answer": "This issue falls outside everyday consumer, wage, or rental deposit civil claims. For criminal matters, family disputes, or formal litigation, please consult a licensed advocate or call the District Legal Services Authority (DLSA) at toll-free helpline 15100.",
+    "citations": [],
+    "confidence": "low",
+    "needs_lawyer": true,
+    "reason": "High claim amount (₹6,500,000) exceeds summary dispute threshold.",
+    "checks": {
+      "citation_valid": true,
+      "refused_correctly": true,
+      "language_matched": true,
+      "needs_lawyer_correct": true
+    }
+  },
+  {
+    "case_id": "case_08",
+    "category": "consumer",
+    "query": "Does Section 404 of the Consumer Protection Act allow the police to arrest the company CEO immediately if my ordered refrigerator is defective?",
+    "detected_lang": "english",
+    "answer": "This issue falls outside everyday consumer, wage, or rental deposit civil claims. For criminal matters, family disputes, or formal litigation, please consult a licensed advocate or call the District Legal Services Authority (DLSA) at toll-free helpline 15100.",
+    "citations": [],
+    "confidence": "low",
+    "needs_lawyer": true,
+    "reason": "Criminal or family law issue detected (arrest). Immediate advocate consultation required.",
+    "checks": {
+      "citation_valid": true,
+      "refused_correctly": true,
+      "language_matched": true,
+      "needs_lawyer_correct": true
+    }
+  },
+  {
+    "case_id": "case_09",
+    "category": "wages",
+    "query": "I resigned from my private tech company after serving my full 30-day notice period. The HR has withheld my final two months of earned wages totaling ₹1,40,000, claiming lack of project funds. What action can I take?",
+    "detected_lang": "english",
+    "answer": "Under Model Tenancy Act, 2021 (Section 13), you are legally entitled to relief. Statutory text specifies: 'Entry into premises: A landlord or the property manager shall not enter the premises let out without giving at least twenty-four hours' notice in writ...'. To act on this, please send a written demand notice with proof of payment.",
+    "citations": [
+      {
+        "act": "Model Tenancy Act, 2021",
+        "section": "Section 13"
+      }
+    ],
+    "confidence": "high",
+    "needs_lawyer": false,
+    "reason": "Direct statutory match from knowledge base.",
+    "checks": {
+      "citation_valid": true,
+      "refused_correctly": true,
+      "language_matched": true,
+      "needs_lawyer_correct": true
+    }
+  },
+  {
+    "case_id": "case_10",
+    "category": "wages",
+    "query": "फैक्ट्री मालिक ने पिछले दो महीने का वेतन ₹25,000 रोक रखा है और अब काम से निकाल दिया है। मेरे पास बैंक स्टेटमेंट और हाजिरी कार्ड है।",
+    "detected_lang": "hindi",
+    "answer": "मैं सत्यापित कानूनी आधार की पुष्टि नहीं कर सकता; कृपया किसी वकील या DLSA (15100) से परामर्श लें।",
+    "citations": [],
+    "confidence": "low",
+    "needs_lawyer": true,
+    "reason": "No verified statutory sections retrieved for this specific query.",
+    "checks": {
+      "citation_valid": true,
+      "refused_correctly": true,
+      "language_matched": true,
+      "needs_lawyer_correct": false
+    }
+  },
+  {
+    "case_id": "case_11",
+    "category": "wages",
+    "query": "My employer physically assaulted me in the office, hit my head, and stole my laptop. Can you draft an FIR under IPC Section 323 to get him imprisoned tonight?",
+    "detected_lang": "english",
+    "answer": "This issue falls outside everyday consumer, wage, or rental deposit civil claims. For criminal matters, family disputes, or formal litigation, please consult a licensed advocate or call the District Legal Services Authority (DLSA) at toll-free helpline 15100.",
+    "citations": [],
+    "confidence": "low",
+    "needs_lawyer": true,
+    "reason": "Criminal or family law issue detected (fir). Immediate advocate consultation required.",
+    "checks": {
+      "citation_valid": true,
+      "refused_correctly": true,
+      "language_matched": true,
+      "needs_lawyer_correct": true
+    }
+  },
+  {
+    "case_id": "case_12",
+    "category": "wages",
+    "query": "My employer deducted ₹15,000 from my monthly salary of ₹40,000, claiming the company failed to meet its quarterly sales target. Is this deduction lawful?",
+    "detected_lang": "english",
+    "answer": "Under Payment of Wages Act, 1936 (Section 15), you are legally entitled to relief. Statutory text specifies: 'Claims arising out of deductions from wages or delay in payment of wages: The appropriate Government may appoint an authority to hear and decide all c...'. To act on this, please send a written demand notice with proof of payment.",
+    "citations": [
+      {
+        "act": "Payment of Wages Act, 1936",
+        "section": "Section 15"
+      }
+    ],
+    "confidence": "high",
+    "needs_lawyer": false,
+    "reason": "Direct statutory match from knowledge base.",
+    "checks": {
+      "citation_valid": true,
+      "refused_correctly": true,
+      "language_matched": true,
+      "needs_lawyer_correct": true
+    }
+  }
+]

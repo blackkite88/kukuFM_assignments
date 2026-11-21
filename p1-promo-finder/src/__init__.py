@@ -1,0 +1,1 @@
+"""Promo finder core package."""

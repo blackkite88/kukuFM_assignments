@@ -1,0 +1,16 @@
+episode,verdict_pred,stakes_pred,surprise_pred,human_verdict,human_stakes,human_surprise,notes
+1,strong,8.5,8.0,,,,Sample episode 1
+2,strong,8.5,8.0,,,,Sample episode 2
+3,strong,9.0,8.5,,,,Sample episode 3
+4,ok,6.5,6.0,,,,Sample episode 4
+5,weak,4.0,3.5,,,,Sample episode 5 (pre-paywall episode)
+6,strong,8.0,8.0,,,,Sample episode 6
+7,ok,6.0,6.0,,,,Sample episode 7
+8,weak,4.5,4.0,,,,Sample episode 8
+9,ok,6.0,6.5,,,,Sample episode 9
+10,weak,4.0,3.5,,,,Sample episode 10 (paywall cliffhanger)
+11,strong,8.5,7.5,,,,Sample episode 11
+12,ok,6.0,5.5,,,,Sample episode 12
+13,strong,8.0,8.0,,,,Sample episode 13
+14,ok,6.5,6.0,,,,Sample episode 14
+15,weak,4.0,3.0,,,,Sample episode 15 (paywall cliffhanger)

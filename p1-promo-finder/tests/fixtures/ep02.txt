@@ -1,0 +1,12 @@
+[00:00:00] [SCENE] MANSION FOYER - CONTINUOUS
+[00:00:03] [ACTION] The heavy wooden door swings open.
+[00:00:06] KABIR: (calm voice) Am I interrupting a family reunion?
+[00:00:11] ROHIT: Kabir? You were supposed to be in London!
+[00:00:16] KABIR: Flight got cancelled. Or maybe someone wanted me to see this circus.
+[00:00:22] ANANYA: Kabir, he forced father into cardiac arrest.
+[00:00:28] ROHIT: Don't listen to her lies! She has gone insane!
+[00:00:34] KABIR: (pulls out a black leather diary) Father wrote this before he collapsed.
+[00:00:41] [ACTION] Kabir flips the diary open to reveal bloodstained handwriting.
+[00:00:47] KABIR: Rohit, you are not my brother. You never were.
+[00:00:54] ROHIT: (pulls a concealed revolver from his jacket) Step back!
+[00:00:59] [ACTION] The gun clicks as Rohit aims straight between Kabir's eyes.

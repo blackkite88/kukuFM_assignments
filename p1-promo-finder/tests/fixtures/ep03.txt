@@ -1,0 +1,10 @@
+[00:00:00] [SCENE] POLICE HEADQUARTERS - MORNING
+[00:00:03] INSPECTOR VERMA: Sit down, Mr. Rohit Singhania.
+[00:00:08] ROHIT: My lawyers will have me out of this interrogation room in ten minutes.
+[00:00:15] INSPECTOR VERMA: Not today. We dredged the lake this morning.
+[00:00:21] [ACTION] Verma drops a sealed evidence bag containing a gold ring onto the metal desk.
+[00:00:28] ROHIT: (voice shaking) That belongs to my late wife.
+[00:00:34] INSPECTOR VERMA: It was found inside the sunken sedan. Along with her skeleton.
+[00:00:42] ROHIT: You cannot prove I was anywhere near that lake!
+[00:00:48] INSPECTOR VERMA: (smiles cold) We found your fingerprints etched into the brake line.
+[00:00:55] [ACTION] Red sirens begin flashing as an emergency broadcast interrupts the room television.
